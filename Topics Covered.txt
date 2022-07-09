@@ -1,0 +1,4 @@
+Till : 09-07-2022
+
+1. ACF and PACF intuition
+2. Stationarity : Data Processing to make TS stationary
